@@ -1,4 +1,6 @@
-# Hi, I'm Gabe!
+# Servus, I'm Gabe!
+**(in German, "Servus" is a greeting that typically means "at your service!")**
+
 I like coding and learning foreign languages. I like making data understandable for myself and others. I also like to build software.
 
 I'm a student at Kutztown University of Pennsylvania majoring in Computer Science as well as German Communication and Culture. I also have a minor in Mathematics and Spanish.
